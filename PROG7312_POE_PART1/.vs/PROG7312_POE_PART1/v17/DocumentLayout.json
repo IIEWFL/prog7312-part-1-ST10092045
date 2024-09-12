@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|c:\\users\\samen\\desktop\\new folder (2)\\prog7312_poe_part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46EBA59-7169-49D8-9EB2-FFEE1BE8F61A}|PROG7312_POE_PART1.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samen\\Desktop\\New folder\\PROG7312_PART1\\PROG7312_PART1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\samen\\Desktop\\New folder\\PROG7312_PART1\\PROG7312_PART1\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\..\\New folder\\PROG7312_PART1\\PROG7312_PART1\\Form2.cs",
+              "ToolTip": "C:\\Users\\samen\\Desktop\\New folder\\PROG7312_PART1\\PROG7312_PART1\\Form2.cs",
+              "RelativeToolTip": "..\\..\\New folder\\PROG7312_PART1\\PROG7312_PART1\\Form2.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:23:48.543Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAAAEMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:24:12.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA2wDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:23:12.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\samen\\Desktop\\PROGRAMMING_PART_1\\PROG7312_POE_PART1\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\PROGRAMMING_PART_1\\PROG7312_POE_PART1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:20:13.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA6wBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:57:01.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:56:02.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\samen\\Desktop\\New folder (2)\\PROG7312_POE_PART1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:53:23.472Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

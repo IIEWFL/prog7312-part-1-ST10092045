@@ -1,0 +1,11 @@
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\bin\Debug\PROG7312_POE_PART1.exe.config
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\bin\Debug\PROG7312_POE_PART1.exe
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\bin\Debug\PROG7312_POE_PART1.pdb
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\obj\Debug\PROG7312_POE_PART1.csproj.AssemblyReference.cache
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\obj\Debug\PROG7312_POE_PART1.Form1.resources
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\obj\Debug\PROG7312_POE_PART1.Properties.Resources.resources
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\obj\Debug\PROG7312_POE_PART1.csproj.GenerateResource.cache
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\obj\Debug\PROG7312_POE_PART1.csproj.CoreCompileInputs.cache
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\obj\Debug\PROG7312_POE_PART1.exe
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\obj\Debug\PROG7312_POE_PART1.pdb
+C:\Users\samen\Desktop\PROGRAMMING_PART_1\PROG7312_POE_PART1\obj\Debug\PROG7312_POE_PART1.Form2.resources
